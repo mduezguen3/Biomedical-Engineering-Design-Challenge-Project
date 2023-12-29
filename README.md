@@ -41,6 +41,17 @@ Calculation of confidence intervals.
 - MATLAB Clean Wrist BPM Data Output.png
   ![MATLAB Wrist BPM Data Output](https://github.com/mduezguen3/Computational-Neuroscience-Research/assets/131891739/9b571b75-63a9-402b-b795-a73e0df66943)
 
+##  Interpretation and Exploration
+
+- 'aimodel.m':  This MATLAB script performs machine learning toolbox applications in MATLAB by loading PPG data, applying a Butterworth bandpass filter, performing Z-score normalization, and aligning signals using cross-correlation. Afterwards,  defines and trains an LSTM-based autoencoder for feature extraction and ABP waveform reconstruction. Furthermore, the script allows for visualizations of raw and filtered PPG signals, aligned MAP signals, and predicted continuous MAP waveforms to assess the model's performance. Moreover, loads new PPG data, filters and normalizes it, makes predictions using the trained LSTM autoencoder, and visualizes the actual and predicted MAP signals.
+
+## Images 
+
+- Trained Data - PPG Signal and Filtered PPG and Training Data - Synthetic MAP Signal and Aligned MAP.png
+  ![Training Data - PPG Signal and Filtered PPG](https://github.com/mduezguen3/Biomedical-Engineering-Design-Challenge-Project/assets/131891739/b6befb05-b779-4813-b33b-515bad83a599)
+- Testing Data - Actual MAP Signals, Testing Data - Predicted MAP Signals, and Testing Data - Difference between Predicted and Actual MAP.png
+  ![Testing Data - Actual MAP Signals, Testing Data - Predicted MAP Signals, and Testing Data - Difference between Predicted and Actual MAP](https://github.com/mduezguen3/Biomedical-Engineering-Design-Challenge-Project/assets/131891739/14da17fd-6cec-42e2-bd05-a51dc303cd28)
+
 
 
 
