@@ -43,6 +43,15 @@ Calculation of confidence intervals.
 
 ##  Interpretation and Exploration
 
+- 'ttestpval.m': This script executes a t-test to evaluate the significance of the observed sample mean compared to the assumed population mean. It calculates the T-Value, representing the standard errors between the sample mean and population mean, and the P-Value, indicating the probability of observing the given T-Value under the null hypothesis. This script provides insights into the characteristics of datasets, examining the reliability of sample statistics, detecting trends (e.g., blood pressure trends), and assessing the significance of data concerning specific population parameters. It underscores the significance of the t-test as a powerful tool for hypothesis testing and drawing meaningful conclusions from the dataset.
+
+## Images 
+
+- MATLAB Wrist and Finger BPM Data TTest and P-Value Test Output.png
+  ![MATLAB Wrist and Finger BPM Data TTest and P-Value Test Output - Copy](https://github.com/mduezguen3/Biomedical-Engineering-Design-Challenge-Project/assets/131891739/85c40d87-1848-4b6c-a5a6-bdd30b196cf4)
+  
+##  Interpretation and Exploration
+
 - 'aimodel.m':  This MATLAB script performs machine learning toolbox applications in MATLAB by loading PPG data, applying a Butterworth bandpass filter, performing Z-score normalization, and aligning signals using cross-correlation. Afterwards,  defines and trains an LSTM-based autoencoder for feature extraction and ABP waveform reconstruction. Furthermore, the script allows for visualizations of raw and filtered PPG signals, aligned MAP signals, and predicted continuous MAP waveforms to assess the model's performance. Moreover, loads new PPG data, filters and normalizes it, makes predictions using the trained LSTM autoencoder, and visualizes the actual and predicted MAP signals. 
 
 ## Images 
@@ -52,14 +61,7 @@ Calculation of confidence intervals.
 - Testing Data - Actual MAP Signals, Testing Data - Predicted MAP Signals, and Testing Data - Difference between Predicted and Actual MAP.png
   ![Testing Data - Actual MAP Signals, Testing Data - Predicted MAP Signals, and Testing Data - Difference between Predicted and Actual MAP](https://github.com/mduezguen3/Biomedical-Engineering-Design-Challenge-Project/assets/131891739/14da17fd-6cec-42e2-bd05-a51dc303cd28)
 
-##  Interpretation and Exploration
 
-- 'ttestpval.m': This script executes a t-test to evaluate the significance of the observed sample mean compared to the assumed population mean. It calculates the T-Value, representing the standard errors between the sample mean and population mean, and the P-Value, indicating the probability of observing the given T-Value under the null hypothesis. This script provides insights into the characteristics of datasets, examining the reliability of sample statistics, detecting trends (e.g., blood pressure trends), and assessing the significance of data concerning specific population parameters. It underscores the significance of the t-test as a powerful tool for hypothesis testing and drawing meaningful conclusions from the dataset.
-
-## Images 
-
-- MATLAB Wrist and Finger BPM Data TTest and P-Value Test Output.png
-  ![MATLAB Wrist and Finger BPM Data TTest and P-Value Test Output - Copy](https://github.com/mduezguen3/Biomedical-Engineering-Design-Challenge-Project/assets/131891739/85c40d87-1848-4b6c-a5a6-bdd30b196cf4)
 
 
 
