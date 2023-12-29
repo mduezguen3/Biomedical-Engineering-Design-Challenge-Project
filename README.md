@@ -14,4 +14,6 @@ Figures 2 and 3: Generate linear regression subplots for blood pressure trends. 
 
 ## Images 
 
-- 'figure1.png'
+- 'MATLAB (Cleaned Raw Wrist Data) Signal Value vs Time (Raw Data), Signal Value vs Time (Blood Pressure Trend), Residual Value vs Time (Residuals).png'
+- 'MATLAB (Cleaned Raw Finger Data) Signal Value vs Time (Raw Data), Signal Value vs Time (Blood Pressure Trend), Residual Value vs Time (Residuals).png'
+- 'MATLAB (Cleaned BPM Data) Signal Value vs Time (Raw Data), Signal Value vs Time (Blood Pressure Trend), Residual Value vs Time (Residuals).png'
