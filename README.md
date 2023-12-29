@@ -18,7 +18,10 @@ Figures 2 and 3: Generate linear regression subplots for blood pressure trends. 
   ![MATLAB (Cleaned Raw Wrist Data) Signal Value vs Time (Raw Data), Signal Value vs Time (Blood Pressure Trend), Residual Value vs Time (Residuals)](https://github.com/mduezguen3/Computational-Neuroscience-Research/assets/131891739/0f13fe4f-a640-44d0-b676-f41bc1946234)
 
 - MATLAB (Cleaned Raw Finger Data) Signal Value vs Time (Raw Data), Signal Value vs Time (Blood Pressure Trend), Residual Value vs Time (Residuals).png
+  ![MATLAB (Cleaned Raw Finger Data) Signal Value vs Time (Raw Data), Signal Value vs Time (Blood Pressure Trend), Residual Value vs Time (Residuals)](https://github.com/mduezguen3/Computational-Neuroscience-Research/assets/131891739/08ae87df-546b-4acb-ad5a-306e3cc350a7)
+
 - MATLAB (Cleaned BPM Data) Signal Value vs Time (Raw Data), Signal Value vs Time (Blood Pressure Trend), Residual Value vs Time (Residuals).png
+  ![MATLAB (Cleaned BPM Data) Signal Value vs Time (Raw Data), Signal Value vs Time (Blood Pressure Trend), Residual Value vs Time (Residuals)](https://github.com/mduezguen3/Computational-Neuroscience-Research/assets/131891739/7d4a314b-acd9-47b3-9c89-8315e350d91a)
 
 ##  Interpretation and Exploration
 
@@ -29,4 +32,15 @@ Calculation of confidence intervals.
 
 ## Images 
 
-- 
+- MATLAB Finger Raw Data Output.png
+  ![MATLAB Finger Raw Data Output](https://github.com/mduezguen3/Computational-Neuroscience-Research/assets/131891739/0ede6534-67fa-45a7-97fa-6b76d04c1465)
+- MATLAB Wrist Raw Data Output.png
+  ![MATLAB Wrist Raw Data Output](https://github.com/mduezguen3/Computational-Neuroscience-Research/assets/131891739/23498cd8-f39d-4a90-8e0c-3fe461addc6f)
+- MATLAB Finger BPM Data Output.png
+  ![MATLAB Finger Raw Data Output](https://github.com/mduezguen3/Computational-Neuroscience-Research/assets/131891739/f5f1e1d9-d043-431b-a2a2-444a5f1b5952)
+- MATLAB Wrist BPM Data Output.png
+  ![MATLAB Wrist BPM Data Output](https://github.com/mduezguen3/Computational-Neuroscience-Research/assets/131891739/9b571b75-63a9-402b-b795-a73e0df66943)
+
+
+
+
