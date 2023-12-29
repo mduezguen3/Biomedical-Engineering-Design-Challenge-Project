@@ -6,7 +6,7 @@ This repository contains MATLAB files for a biomedical engineereing design chall
 
 ##  Interpretation and Exploration
 
-- 'research1.m': MATLAB code analyzes PPG sensor data from wrist and finger, featuring functions for data cleaning, raw sensor plots, and Beats Per Minute (BPM) calculation. Linear regression identifies blood pressure trends, and residuals guide model accuracy assessment.
+- 'research1.m': MATLAB code analyzes PPG sensor data from wrist and finger, featuring machine learning toolbox in MATLAB functions for data cleaning, raw sensor plots, and Beats Per Minute (BPM) calculation. Linear regression identifies blood pressure trends, and residuals guide model accuracy assessment.
 
 Figure 1: Provides a visual of signal values changing over time, aiding in physiological insights. BPM calculation offers quick heart rate assessment, with potential for refining BPM algorithms for enhanced accuracy.
 
