@@ -17,3 +17,14 @@ Figures 2 and 3: Generate linear regression subplots for blood pressure trends. 
 - MATLAB (Cleaned Raw Wrist Data) Signal Value vs Time (Raw Data), Signal Value vs Time (Blood Pressure Trend), Residual Value vs Time (Residuals).png
 - MATLAB (Cleaned Raw Finger Data) Signal Value vs Time (Raw Data), Signal Value vs Time (Blood Pressure Trend), Residual Value vs Time (Residuals).png
 - MATLAB (Cleaned BPM Data) Signal Value vs Time (Raw Data), Signal Value vs Time (Blood Pressure Trend), Residual Value vs Time (Residuals).png
+
+##  Interpretation and Exploration
+
+- 'statsapp10.m':  This MATLAB script performs the following statistical analyses on the clean BPM dataset:
+Descriptive statistics: Mean, median, mode, variance, standard deviation, standard error, range, correlation coefficient, and linear regression coefficients.
+Two-sample t-test to assess the difference between the sample mean and hypothesized population mean (from the Apple Watch).
+Calculation of confidence intervals.
+
+## Images 
+
+- 
