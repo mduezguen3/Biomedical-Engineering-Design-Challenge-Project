@@ -36,9 +36,9 @@ Calculation of confidence intervals.
   ![MATLAB Finger Raw Data Output](https://github.com/mduezguen3/Computational-Neuroscience-Research/assets/131891739/0ede6534-67fa-45a7-97fa-6b76d04c1465)
 - MATLAB Wrist Raw Data Output.png
   ![MATLAB Wrist Raw Data Output](https://github.com/mduezguen3/Computational-Neuroscience-Research/assets/131891739/23498cd8-f39d-4a90-8e0c-3fe461addc6f)
-- MATLAB Finger BPM Data Output.png
+- MATLAB Clean Finger BPM Data Output.png
   ![MATLAB Finger Raw Data Output](https://github.com/mduezguen3/Computational-Neuroscience-Research/assets/131891739/f5f1e1d9-d043-431b-a2a2-444a5f1b5952)
-- MATLAB Wrist BPM Data Output.png
+- MATLAB Clean Wrist BPM Data Output.png
   ![MATLAB Wrist BPM Data Output](https://github.com/mduezguen3/Computational-Neuroscience-Research/assets/131891739/9b571b75-63a9-402b-b795-a73e0df66943)
 
 
