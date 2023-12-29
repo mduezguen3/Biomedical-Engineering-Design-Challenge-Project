@@ -11,7 +11,3 @@ This repository contains MATLAB files for a biomedical engineereing design chall
 Figure 1: Provides a visual of signal values changing over time, aiding in physiological insights. BPM calculation offers quick heart rate assessment, with potential for refining BPM algorithms for enhanced accuracy.
 
 Figures 2 and 3: Generate linear regression subplots for blood pressure trends. Residual analysis identifies model shortcomings, guiding an iterative refinement process for improved accuracy. Overall, these MATLAB files offer insights into cardiovascular activity, emphasizing the importance of iterative refinement for accurate health monitoring.
-
-
-- 'file2.m': Description of file 2.
--    
