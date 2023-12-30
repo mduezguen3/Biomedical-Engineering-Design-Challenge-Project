@@ -60,6 +60,8 @@ Calculation of confidence intervals.
   ![Training Data - PPG Signal and Filtered PPG](https://github.com/mduezguen3/Biomedical-Engineering-Design-Challenge-Project/assets/131891739/b6befb05-b779-4813-b33b-515bad83a599)
 - Testing Data - Actual MAP Signals, Testing Data - Predicted MAP Signals, and Testing Data - Difference between Predicted and Actual MAP.png
   ![Testing Data - Actual MAP Signals, Testing Data - Predicted MAP Signals, and Testing Data - Difference between Predicted and Actual MAP](https://github.com/mduezguen3/Biomedical-Engineering-Design-Challenge-Project/assets/131891739/14da17fd-6cec-42e2-bd05-a51dc303cd28)
+- Trained AI Model.png
+  ![Training AI model](https://github.com/mduezguen3/Biomedical-Engineering-Design-Challenge-Project/assets/131891739/208e3763-cab8-4f69-942c-af57e4c746c2)
 
 
 
